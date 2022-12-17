@@ -1,4 +1,4 @@
-<h4>- 👋 Hi, I’m @Evans Oduor</h4>
+<h4>- 👋 Hi, My Name is Evans Oduor</h4>
 - 👀 I’m interested in back end Software developemnt
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on the bidding app
